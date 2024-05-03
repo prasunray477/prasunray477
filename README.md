@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prasunray477" target="blank"><img src="https://img.shields.io/twitter/follow/prasunray477?logo=twitter&style=for-the-badge" alt="prasunray477" /></a> </p>
 
-- 📝 I regularly write articles on [https://prasunray477.blogspot.com/]((https://prasunray477.blogspot.com/))
+- 📝 I regularly write articles on [https://prasunray477.blogspot.com/](https://prasunray477.blogspot.com/)
 
 - 📫 How to reach me **prasunray477@gmail.com**
 
